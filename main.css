@@ -61,7 +61,6 @@ header {
 }
 .menu__item_button:hover {
   color: #ffffff;
-  background-color: #ffffff;
   cursor: pointer;
 }
 
@@ -136,14 +135,14 @@ header {
   margin: 0 auto;
 }
 #home .banner_hi {
- 
+
   color: #ffffff;
   font-family: "LeckerliOne";
   font-size: 36px;
   font-weight: 400;
   margin: 266px 5% 1% 160px;
   display: flex;
-  
+
 }
 #home .banner_my {
   /* Style for "My Name is" */
@@ -155,13 +154,13 @@ font-weight: 400;
 display: flex;
 margin: 7px 10% 7px 155px;
 
-  
+
 }
 .banner_my span {
   color: #0081ff;
 }
 .banner_i {
-  
+
   color: #ffffff;
   font-family: "Montserrat";
   font-size: 40px;
@@ -202,7 +201,7 @@ margin: 7px 10% 7px 155px;
 #home {
   width: 100%;
   margin: 0;
-  
+
 }
 
 #service {
@@ -210,7 +209,7 @@ margin: 7px 10% 7px 155px;
   height: 1083px;
   background-color: #0081ff;
   margin-top: 0;
-  
+
 }
 .txt_a {
   margin: 135px 348px 919px 379px;
